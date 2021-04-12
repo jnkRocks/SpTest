@@ -1,7 +1,3 @@
-<head>
-  <title>Test</title>
-  </head>
-
 
 ## Welcome to GitHub Pages
 
